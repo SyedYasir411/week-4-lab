@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception_Handling/Exception_Handling.iml" filepath="$PROJECT_DIR$/Exception_Handling/Exception_Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOStreams/IOStreams.iml" filepath="$PROJECT_DIR$/IOStreams/IOStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Insurance_management/Insurance_management.iml" filepath="$PROJECT_DIR$/Collections/Insurance_management/Insurance_management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/List_Interface/List_Interface.iml" filepath="$PROJECT_DIR$/Collections/List_Interface/List_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Map_Interface/Map_Interface.iml" filepath="$PROJECT_DIR$/Collections/Map_Interface/Map_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/MealPlanner/MealPlanner.iml" filepath="$PROJECT_DIR$/Generics/MealPlanner/MealPlanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/OnlineMarket/OnlineMarket.iml" filepath="$PROJECT_DIR$/Generics/OnlineMarket/OnlineMarket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Queue_interface/Queue_interface.iml" filepath="$PROJECT_DIR$/Collections/Queue_interface/Queue_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regex_Junit/Regex_Junit.iml" filepath="$PROJECT_DIR$/Regex_Junit/Regex_Junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/ResumeScreening/ResumeScreening.iml" filepath="$PROJECT_DIR$/Generics/ResumeScreening/ResumeScreening.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Set_Interface/Set_Interface.iml" filepath="$PROJECT_DIR$/Collections/Set_Interface/Set_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/SmartWarehouse/SmartWarehouse.iml" filepath="$PROJECT_DIR$/Generics/SmartWarehouse/SmartWarehouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/UniversityManagement/UniversityManagement.iml" filepath="$PROJECT_DIR$/Generics/UniversityManagement/UniversityManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5.iml" filepath="$PROJECT_DIR$/Week5.iml" />
+    </modules>
+  </component>
+</project>
